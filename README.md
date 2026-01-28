@@ -1,4 +1,4 @@
-# Sequenz e.V. -- Vereinsdokumentation
+# Sequenz e.V. - Vereinsdokumentation
 
 Dieses Repository dient als zentrale, versionierte
 Dokumentationsplattform für den Verein **Sequenz e.V.**\
