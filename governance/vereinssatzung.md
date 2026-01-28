@@ -2,15 +2,11 @@
 
 **Stand: 22.01.2026**
 
----
-
 ## § 1 Name und Sitz des Vereins, Geschäftsjahr
 
 1. Der Verein führt den Namen **Sequenz**. Er soll bei Vorliegen der Voraussetzungen in das Vereinsregister eingetragen werden und führt danach den Zusatz „e.V.“.
 2. Der Verein hat seinen Sitz in Mannheim.
 3. Das Geschäftsjahr ist das Kalenderjahr.
-
----
 
 ## § 2 Zweck, Gemeinnützigkeit des Vereins
 
@@ -30,8 +26,6 @@
 5. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins.
 6. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
----
-
 ## § 3 Erwerb der Mitgliedschaft
 
 1. Mitglied des Vereins kann jede natürliche Person werden, die das 18. Lebensjahr vollendet hat.
@@ -39,8 +33,6 @@
 3. Auf Vorschlag des Vorstands kann die Mitgliederversammlung Mitglieder oder sonstige Personen, die sich um den Verein besonders verdient gemacht haben, zu Ehrenmitgliedern auf Lebenszeit ernennen.
 4. Jedes Mitglied ist verpflichtet, dem Vorstand sowohl eine Melde- als auch eine E-Mail-Adresse schriftlich oder per E-Mail bekannt zu geben.
 5. Jedes Mitglied ist verpflichtet, die Satzung, die Beschlüsse der Organe des Vereins sowie die aufgrund dieser Satzung erlassenen Vereinsordnungen in der jeweils gültigen Fassung zu beachten.
-
----
 
 ## § 4 Beendigung der Mitgliedschaft
 
@@ -56,22 +48,16 @@
 5. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig.
 6. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
----
-
 ## § 5 Beiträge
 
 1. Es wird ein monatlicher Mitgliedsbeitrag erhoben. Über die jeweilige Höhe und die Fälligkeit entscheidet der Vorstand. Der Vorstand kann die Aussetzung des Mitgliedsbeitrags beschließen und Beitragsordnungen erlassen.
 2. Ehrenmitglieder haben keinen Beitrag zu leisten.
-
----
 
 ## § 5a Vereinsordnungen
 
 1. Der Verein kann zur Regelung des Vereinslebens und der Durchführung von Vereinsveranstaltungen Vereinsordnungen erlassen, insbesondere einen Verhaltenskodex.
 2. Vereinsordnungen und deren Änderungen werden vom Vorstand beschlossen.
 3. Vereinsordnungen dürfen der Satzung nicht widersprechen. Sie sind den Mitgliedern in geeigneter Weise bekannt zu machen und jederzeit zugänglich zu halten.
-
----
 
 ## § 6 Organe des Vereins
 
@@ -80,8 +66,6 @@ Organe des Vereins sind:
 * a) die Mitgliederversammlung
 * b) der Vorstand
 * c) der Kassenprüfer
-
----
 
 ## § 7 Mitgliederversammlung
 
@@ -104,8 +88,6 @@ Organe des Vereins sind:
    * g) Beschlüsse werden mit Mehrheit gefasst und protokolliert.
 4. Beschlussfassung ohne Mitgliederversammlung ist möglich (Umlaufbeschluss per E-Mail).
 
----
-
 ## § 8 Vorstand
 
 1. Der Vorstand führt die Geschäfte des Vereins.
@@ -116,22 +98,16 @@ Organe des Vereins sind:
 6. Vorstand arbeitet ehrenamtlich.
 7. Haftung nur bei Vorsatz oder grober Fahrlässigkeit.
 
----
-
 ## § 9 Kassenprüfung
 
 1. Wahl eines Kassenprüfers für zwei Jahre.
 2. Prüfung der Buchführung und Bericht an die Mitgliederversammlung.
-
----
 
 ## § 10 Auflösung des Vereins
 
 1. Liquidatoren sind Vorsitzender und Stellvertreter.
 2. Vermögen fällt an gemeinnützige Körperschaft im Bereich Kunst und Kultur.
 3. Regelungen gelten entsprechend bei Entzug der Rechtsfähigkeit.
-
----
 
 ## § 11 Gültigkeit (Salvatorische Klausel)
 
