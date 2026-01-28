@@ -3,11 +3,11 @@
 Dieses Verzeichnis enthält das Rollenhandbuch als einzelne, versionierbare Markdown-Dateien.
 
 ## Meta
-- [Grundlagen: Zweck & Prinzipien](grundlagen.md)
-- [Rollenmodell & Begriffe](rollenmodell.md)
-- [Kommunikation & Eskalation](kommunikation_und_eskalation.md)
-- [Rollen-Steckbrief (Format)](rollen_steckbrief.md)
-- [Rollenübersicht](rollenuebersicht.md)
+- [Grundlagen: Zweck & Prinzipien](meta/grundlagen.md)
+- [Rollenmodell & Begriffe](meta/rollenmodell.md)
+- [Kommunikation & Eskalation](meta/kommunikation_und_eskalation.md)
+- [Rollen-Steckbrief (Format)](meta/rollen_steckbrief.md)
+- [Rollenübersicht](meta/rollenuebersicht.md)
 
 ## Rollen (Event & Verein)
 - [Eventleitung](eventleitung.md)
