@@ -1,119 +1,147 @@
-# Sequenz e.V. - Vereinsdokumentation
+# Sequenz e.V. – Vereins-Repository
 
-Dieses Repository dient als zentrale, versionierte
-Dokumentationsplattform für den Verein **Sequenz e.V.**\
-Hier werden wichtige Vereinsdokumente, Ordnungen, Prozesse und Vorlagen
-transparent und nachvollziehbar gepflegt.
+Dieses Repository ist die zentrale Wissens- und Dokumentationsplattform von **Sequenz e.V.**  
+Es dient als *Single Source of Truth* für Satzung, Prozesse, Rollen, Events, Finanzen, Branding und technische Infrastruktur.
 
-Ziel ist es, organisatorisches Wissen langfristig zu sichern, Änderungen
-sauber zu dokumentieren und die Vereinsarbeit professionell zu
-strukturieren.
+Ziel:
+- Transparenz
+- Nachvollziehbarkeit
+- saubere Übergaben bei Rollenwechseln
+- strukturierte Zusammenarbeit
+- langfristige Wissenssicherung
 
-------------------------------------------------------------------------
+---
 
-## 📁 Inhalt dieses Repositories
+## 📁 Struktur
 
-Dieses Repository enthält unter anderem:
+- **/01_governance**  
+  Satzung, Ordnungen, Code of Conduct, Awareness- & Datenschutzkonzepte
 
--   📜 **Satzung & Ordnungen**
-    -   Satzung
-    -   Beitragsordnung
-    -   Code of Conduct / Verhaltenskodex
--   🧑‍🤝‍🧑 **Rollen & Verantwortlichkeiten**
-    -   Vorstand
-    -   Technik
-    -   Eventorganisation
-    -   Öffentlichkeitsarbeit
-    -   uvm.
--   📝 **Vorlagen**
-    -   Protokolle
-    -   Anträge
-    -   Berichte
-    -   Checklisten
+- **/02_roles**  
+  Rollen & Verantwortlichkeiten (Vorstand, Technik, Social Media, Kasse, etc.)
 
-------------------------------------------------------------------------
+- **/03_handbook**  
+  Vereins-Wissensdatenbank & Onboarding (Abläufe, FAQs, Anleitungen)
 
-## 🗂️ Empfohlene Struktur
+- **/04_events**  
+  Event-Templates und Dokumentationen vergangener Events
 
-``` text
-governance/     → Satzung & Ordnungen
-rollen/         → Rollenbeschreibungen
-prozesse/       → Abläufe & Workflows
-templates/      → Vorlagen
-reports/        → Jahres- & Finanzberichte
-brand/          → Design & Branding
-CHANGELOG.md    → Änderungsprotokoll
-```
+- **/05_brand**  
+  Corporate Identity, Logos, Farben, Fonts, Designvorlagen, Pressetexte
 
-------------------------------------------------------------------------
+- **/06_finance**  
+  Finanzvorlagen, Kontenrahmen, Haushaltspläne (ohne personenbezogene Daten)
 
-## 🔁 Versionierung & Änderungen
+- **/07_infrastructure**  
+  IT & Automatisierung (Server, Domains, Cloudflare, Backups, Bots, n8n, etc.)
 
-Alle Änderungen an wichtigen Dokumenten (z.B. Satzung, Beitragsordnung)
-erfolgen nachvollziehbar über Git:
+- **/08_projects**  
+  Laufende und geplante Projekte (Website, Merch, Podcast, Mitgliederportal)
 
--   Jede Änderung ist historisch einsehbar
--   Größere Änderungen sollten mit einer klaren Commit-Nachricht
-    erfolgen
--   Satzungsänderungen dürfen nur nach Beschluss der
-    Mitgliederversammlung übernommen werden
+- **/09_minutes**  
+  Protokolle von Vorstandssitzungen & Mitgliederversammlungen
 
-Empfohlene Commit-Nachrichten: 
-- `Änderung §3 Mitgliedschaft` 
-- `Neue Beitragsordnung 2026` 
-- `Redaktionelle Korrektur`
+- **/10_templates**  
+  Vertrags- und Rechtstemplates (Künstlerverträge, Kooperationen, Impressum etc.)
 
-------------------------------------------------------------------------
+---
 
-## 📜 Rechtlicher Hinweis
+## 📜 Grundprinzipien
 
-Dieses Repository dient der Dokumentation und Transparenz.\
-Rechtlich verbindlich sind ausschließlich die durch die
-Mitgliederversammlung beschlossenen Fassungen der Dokumente.
+### ✅ Single Source of Truth
+Alle verbindlichen Dokumente liegen hier.  
+Keine parallelen Versionen in WhatsApp, Google Drive oder privaten Ordnern.
 
-------------------------------------------------------------------------
+---
 
-## 🔐 Datenschutz & Sicherheit
+### 🔄 Versionierung & Nachvollziehbarkeit
+Änderungen sind jederzeit nachvollziehbar:
+- Wer hat was geändert?
+- Wann?
+- Warum?
 
-In dieses Repository gehören **keine personenbezogenen Daten**,
-insbesondere keine: 
-- Adressen 
-- Kontodaten 
-- Telefonnummern 
-- E-Mail-Listen 
-- Vertragsunterlagen mit Namen
+Wichtige Änderungen erfolgen über Pull Requests.
 
-Für sensible Inhalte sollte ein separates, privates Repository verwendet
-werden.
+---
 
-------------------------------------------------------------------------
+### 🧠 Wissenssicherung
+Dieses Repository stellt sicher, dass Wissen nicht an einzelne Personen gebunden ist.
 
-## 🤝 Mitwirken
+Ziel:  
+> Jeder neue Vorstand oder Helfer kann sich hier selbstständig einarbeiten.
 
-Mitglieder des Vereins können Vorschläge und Verbesserungen einbringen
-über: 
-- Issues
-- Pull Requests
-- Diskussionen
+---
 
-Alle Änderungen an zentralen Vereinsdokumenten müssen durch den Vorstand
-bzw. die Mitgliederversammlung bestätigt werden.
+## 🚫 Was hier NICHT abgelegt werden darf
 
-------------------------------------------------------------------------
+Aus Datenschutz- und Sicherheitsgründen dürfen hier **keine** personenbezogenen oder sensiblen Daten gespeichert werden, z.B.:
 
-## 🧠 Motivation
+- Mitgliederlisten mit Namen, Adressen, Telefonnummern
+- IBANs, Kontodaten
+- Ausweiskopien
+- unterschriebene Verträge mit Klarnamen
+- sensible Vorfälle oder personenbezogene Konfliktdokumentationen
 
-Dieses Repository soll: 
-- Wissen langfristig sichern 
-- Transparenz schaffen 
-- Übergaben erleichtern 
-- den Verein professionell strukturieren 
-- Chaos durch Versionierung ersetzen
+Dieses Repository ist **kein DSGVO-Tresor**.
 
-------------------------------------------------------------------------
+---
 
-## 📫 Kontakt
+## 📝 Dateiformate
 
-Sequenz e.V.\
-https://sequenz-ev.de\
-mail@sequenz-ev.de
+Bevorzugt:
+- `*.md` (Markdown) für Texte
+- `*.xlsx` für Tabellen & Budgets
+- `*.svg` / `*.png` für Grafiken
+- `*.pdf` nur wenn nötig
+
+---
+
+## 🤝 Zusammenarbeit
+
+Regeln für Beiträge:
+
+1. Keine sensiblen Daten committen
+2. Klare Dateinamen verwenden
+3. Änderungen an Satzung, Ordnungen und Kernprozessen nur per Pull Request
+4. Inhalte verständlich und sachlich formulieren
+5. Templates nicht überschreiben, sondern kopieren
+
+---
+
+## 🌍 Öffentliche vs. interne Inhalte
+
+Dieses Repository ist **intern**.
+
+Für öffentliche Inhalte (z.B. Satzung, Code of Conduct, Brand Assets) existiert ggf. ein separates Public Repository oder eine Website-Version.
+
+---
+
+## 🏗️ Zweck dieses Repositories
+
+Dieses Repository ist kein Archiv, sondern ein Arbeitswerkzeug.
+
+Es unterstützt:
+- Vereinsorganisation
+- Eventproduktion
+- Öffentlichkeitsarbeit
+- Finanztransparenz
+- technische Infrastruktur
+- Wissenstransfer
+- Professionalisierung des Vereins
+
+---
+
+## 📌 Maintainer
+
+Verantwortlich für Struktur und Pflege:
+- Vorstand Sequenz e.V.
+
+Technische Pflege:
+- IT / Infrastruktur-Team
+
+---
+
+## ❤️ Leitgedanke
+
+> Sequenz e.V. ist mehr als Events.  
+> Dieses Repository bildet das organisatorische Fundament unserer Arbeit.
