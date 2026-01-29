@@ -14,34 +14,34 @@ Ziel:
 
 ## 📁 Struktur
 
-- **/01_governance**  
+- 📜 **[01_governance](./01_governance)**  
   Satzung, Ordnungen, Code of Conduct, Awareness- & Datenschutzkonzepte
 
-- **/02_roles**  
+- 👥 **[02_roles](./02_roles)**  
   Rollen & Verantwortlichkeiten (Vorstand, Technik, Social Media, Kasse, etc.)
 
-- **/03_handbook**  
+- 📘 **[03_handbook](./03_handbook)**  
   Vereins-Wissensdatenbank & Onboarding (Abläufe, FAQs, Anleitungen)
 
-- **/04_events**  
+- 🎛️ **[04_events](./04_events)**  
   Event-Templates und Dokumentationen vergangener Events
 
-- **/05_brand**  
+- 🎨 **[05_brand](./05_brand)**  
   Corporate Identity, Logos, Farben, Fonts, Designvorlagen, Pressetexte
 
-- **/06_finance**  
+- 💶 **[06_finance](./06_finance)**  
   Finanzvorlagen, Kontenrahmen, Haushaltspläne (ohne personenbezogene Daten)
 
-- **/07_infrastructure**  
+- 🖥️ **[07_infrastructure](./07_infrastructure)**  
   IT & Automatisierung (Server, Domains, Cloudflare, Backups, Bots, n8n, etc.)
 
-- **/08_projects**  
+- 🚀 **[08_projects](./08_projects)**  
   Laufende und geplante Projekte (Website, Merch, Podcast, Mitgliederportal)
 
-- **/09_minutes**  
+- 📝 **[09_minutes](./09_minutes)**  
   Protokolle von Vorstandssitzungen & Mitgliederversammlungen
 
-- **/10_templates**  
+- 📄 **[10_templates](./10_templates)**  
   Vertrags- und Rechtstemplates (Künstlerverträge, Kooperationen, Impressum etc.)
 
 ---
