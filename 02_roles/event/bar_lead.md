@@ -10,6 +10,8 @@ tags: [bar, logistik, event]
 Verantwortet Barbetrieb, Einkauf und Hygiene.
 
 ## Ziele / Ergebnisse
+- Getränkebedarf geplant
+- Einkauf erledigt
 - Bar einsatzbereit
 - Nachschub geregelt
 - Hygiene eingehalten
