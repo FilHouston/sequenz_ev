@@ -7,35 +7,35 @@ tags: [kasse, abrechnung, event]
 
 # Kassen- & Abrechnungsleiter (Event)
 
-Verantwortet Cashflow und Eventabrechnung.
+Verantwortet Cashflow am Eventtag und die saubere Eventabrechnung (Kassenstände, Belege, Abgleich).
 
 ## Ziele / Ergebnisse
-- Kassenführung korrekt
-- Abrechnung binnen 5 Tagen
-- Keine Beleglücken
+- Kassenführung korrekt und nachvollziehbar
+- Abrechnung innerhalb von 5 Tagen
+- Keine Beleglücken, Cash sicher verwahrt
 
 ## Verantwortlichkeiten
-- Wechselgeld
-- Kassenstände
-- Belege
-- Abgleich
-- Übergabe an Kassenwart
+- Wechselgeld planen und bereitstellen
+- Kassenstände dokumentieren
+- Belege einsammeln, prüfen und sortieren
+- Abgleich Einnahmen vs. Zählungen
+- Übergabe an Kassenwart (Verein)
 
 ## Entscheidungsbefugnisse
-- Kassenprozesse
-- Nachzählung
-- Cash-Transport
+- Kassenprozesse definieren
+- Bei Unstimmigkeiten Nachzählung veranlassen
+- Cash-Transport/Verwahrung festlegen
 
 ## Kommunikationswege
-- Teams: Abrechnung
-- Bar & Einlass
-- Vorstand
+- Teams: Abrechnungsordner, Protokolle, Beleglisten
+- Direkt: Bar- & Einlass-Lead
+- Eskalation: Kassenwart/Vorstand bei großen Abweichungen
 
 ## Abgrenzung & Schnittstellen
-- Keine Buchhaltung
-- Bar, Einlass, Kassenwart
+- Keine Buchhaltung, aber liefert Unterlagen
+- Schnittstellen: Bar, Einlass, Kassenwart
 
 ## Onboarding-Checkliste
-- Zählprotokoll
-- Safe-Regeln
-- Eventbudget
+- Zähltabelle/Zählprotokoll-Template
+- Regeln: Wechselfeld, Safe, Transport
+- Zugriff auf Eventbudget/Preislisten

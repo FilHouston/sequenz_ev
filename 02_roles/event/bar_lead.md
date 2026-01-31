@@ -7,7 +7,7 @@ tags: [bar, logistik, event]
 
 # Bar-Lead
 
-Verantwortet Barbetrieb, Einkauf und Hygiene.
+Verantwortet Barbetrieb: Einkauf, Setup, Prozesse, Hygiene, Bestand und Übergabe an Abrechnung.
 
 ## Ziele / Ergebnisse
 - Getränkebedarf geplant
@@ -17,27 +17,27 @@ Verantwortet Barbetrieb, Einkauf und Hygiene.
 - Hygiene eingehalten
 
 ## Verantwortlichkeiten
-- Einkauf
-- Bar-Setup
-- Team-Briefing
-- Bestand
-- Übergabe an Abrechnung
+- Einkauf mit Budget
+- Bar-Setup und Wegeplanung
+- Team-Briefing (Preise, Ablauf, Kasse)
+- Bestandsführung
+- Übergabe Cash/Belege/Bestand an Abrechnung
 
 ## Entscheidungsbefugnisse
-- Setup bestimmen
-- Einkaufen im Budget
-- Sortiment priorisieren
+- Im Budgetrahmen einkaufen/nachkaufen
+- Bar-Setup und Abläufe bestimmen
+- Sortiment bei Engpässen priorisieren
 
 ## Kommunikationswege
-- Teams: Bar-Checklisten
-- Eventleitung
-- Abrechnung
+- Teams: Bar-Checkliste, Einkaufsliste, Preisliste
+- Eventtag: Abstimmung mit Eventleitung
+- Nach Events: Belege an Abrechnung/Finanz
 
 ## Abgrenzung & Schnittstellen
-- Kein Ticketing
-- Schichtmanager, Abrechnung, Location
+- Kein Ticketing, keine Schichtplanung, keine Social-Entscheidungen
+- Schnittstellen: Schichtmanager, Abrechnung/Finanz, Location
 
 ## Onboarding-Checkliste
-- Budget & Preisliste
-- Setup-Checkliste
+- Budgetrahmen + Preis-/Sortimentsliste
+- Checklisten (Setup, Hygiene, Bestand)
 - Belegprozess
