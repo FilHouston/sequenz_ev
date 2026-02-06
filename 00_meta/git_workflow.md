@@ -35,14 +35,14 @@ Bevor du PR-erstellst:
 ✅ `90_public_mirror/` mitge-updated, wenn nötig?  
 ✅ `git diff` gecheckt?  
 ✅ PR-Title klar? (z.B. „feat: beitragsordnung: Auf 5,50 Euro aktualisiert“)  
-✅ PR-Body: „Warum? Was wurde geändert? Was muss geprüft werden?" 
+✅ PR-Body: „Warum? Was wurde geändert? Was muss geprüft werden?"
 
 ## Regel 4: Mergetag
 
 Jeden **Dienstag um 14:00 Uhr** ist „Merge-Mittwoch“.  
 Alle PRs, die bis Montag 23:59 eingetragen wurden, werden geprüft.  
 Falls keine Kommentare da sind → automatisch gemergt.  
-Wenn was unklar ist → Wenn nicht, bleibt’s offen.
+Wenn was unklar ist → bleibt’s offen.
 
 ---
 

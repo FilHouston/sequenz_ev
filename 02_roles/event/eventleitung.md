@@ -1,5 +1,10 @@
 ---
 title: Eventleitung
+status: active
+visibility: external
+owner_role: Organisationsteam
+last_review: 2026-02-03
+source_path: 02_roles/event/eventleitung.md
 role_type: Eventrolle
 version: 1.0
 tags: [event, leitung, organisation]

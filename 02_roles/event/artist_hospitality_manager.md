@@ -1,5 +1,10 @@
 ---
 title: Artist Hospitality Manager
+status: active
+visibility: external
+owner_role: Eventleitung
+last_review: 2026-02-03
+source_path: 02_roles/event/artist_hospitality_manager.md
 role_type: Eventrolle
 version: 1.0
 tags: [artists, hospitality, event]

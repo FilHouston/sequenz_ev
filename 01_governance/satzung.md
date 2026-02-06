@@ -1,3 +1,12 @@
+---
+title: Satzung Sequenz e.V.
+status: active
+visibility: external
+owner_role: Vorstand
+last_review: 2026-02-03
+source_path: 01_governance/satzung.md
+---
+
 # Vereinssatzung
 
 **Stand: 22.01.2026**

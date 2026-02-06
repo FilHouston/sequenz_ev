@@ -1,5 +1,10 @@
 ---
 title: Technik- & Lichtverantwortlicher
+status: active
+visibility: external
+owner_role: Eventleitung
+last_review: 2026-02-03
+source_path: 02_roles/event/technik_lichtverantwortlicher.md
 role_type: Eventrolle
 version: 1.0
 tags: [technik, licht, dmw, event]

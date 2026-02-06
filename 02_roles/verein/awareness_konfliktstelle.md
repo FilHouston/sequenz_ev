@@ -1,5 +1,10 @@
 ---
 title: Awareness & Konfliktstelle
+status: active
+visibility: external
+owner_role: Vorstand
+last_review: 2026-02-03
+source_path: 02_roles/verein/awareness_konfliktstelle.md
 role_type: Vereinsrolle
 version: 1.1
 tags: [awareness, konflikt, safe-space, verein]

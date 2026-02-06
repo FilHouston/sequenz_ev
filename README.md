@@ -1,147 +1,94 @@
-# Sequenz e.V. – Vereins-Repository
+# Sequenz e.V. – Internal Repository (Single Source of Truth)
 
-Dieses Repository ist die zentrale Wissens- und Dokumentationsplattform von **Sequenz e.V.**  
-Es dient als *Single Source of Truth* für Satzung, Prozesse, Rollen, Events, Finanzen, Branding und technische Infrastruktur.
+Dieses Repository ist das **interne Haupt-Repo** von Sequenz e.V.  
+Es enthält operative Dokumente, Event-Unterlagen, interne Prozesse, Vorlagen sowie (teilweise) sensible Inhalte.
 
-Ziel:
-- Transparenz
-- Nachvollziehbarkeit
-- saubere Übergaben bei Rollenwechseln
-- strukturierte Zusammenarbeit
-- langfristige Wissenssicherung
+✅ **Wichtiges Konzept:** Wir nutzen ein **Public-Mirror-Modell**  
+- **Single Source of Truth:** Dieses Repo (`sequenz_internal`)
+- **Öffentliches Repo:** `sequenz_public` wird **aus einem dedizierten Mirror-Baum** erzeugt
 
 ---
 
-## 📁 Struktur
+## Public Mirror (Export nach außen)
 
-- 📜 **[01_governance](./01_governance)**  
-  Satzung, Ordnungen, Code of Conduct, Awareness- & Datenschutzkonzepte
+Alles, was öffentlich sein darf, liegt ausschließlich unter:
 
-- 👥 **[02_roles](./02_roles)**  
-  Rollen & Verantwortlichkeiten (Vorstand, Technik, Social Media, Kasse, etc.)
+`/90_public_mirror/`
 
-- 📘 **[03_handbook](./03_handbook)**  
-  Vereins-Wissensdatenbank & Onboarding (Abläufe, FAQs, Anleitungen)
+Dieser Ordner ist der **einzige** Inhalt, der 1:1 in das öffentliche Repo gespiegelt wird.  
+Alles außerhalb davon gilt standardmäßig als **nicht öffentlich**.
 
-- 🎛️ **[04_events](./04_events)**  
-  Event-Templates und Dokumentationen vergangener Events
-
-- 🎨 **[05_brand](./05_brand)**  
-  Corporate Identity, Logos, Farben, Fonts, Designvorlagen, Pressetexte
-
-- 💶 **[06_finance](./06_finance)**  
-  Finanzvorlagen, Kontenrahmen, Haushaltspläne (ohne personenbezogene Daten)
-
-- 🖥️ **[07_infrastructure](./07_infrastructure)**  
-  IT & Automatisierung (Server, Domains, Cloudflare, Backups, Bots, n8n, etc.)
-
-- 🚀 **[08_projects](./08_projects)**  
-  Laufende und geplante Projekte (Website, Merch, Podcast, Mitgliederportal)
-
-- 📝 **[09_minutes](./09_minutes)**  
-  Protokolle von Vorstandssitzungen & Mitgliederversammlungen
-
-- 📄 **[10_templates](./10_templates)**  
-  Vertrags- und Rechtstemplates (Künstlerverträge, Kooperationen, Impressum etc.)
+**Prinzip:**  
+> Wenn es public sein soll, muss es im Mirror liegen.  
+> Wenn es nicht im Mirror liegt, bleibt es intern.
 
 ---
 
-## 📜 Grundprinzipien
+## Datenklassifizierung (Kurzregeln)
 
-### ✅ Single Source of Truth
-Alle verbindlichen Dokumente liegen hier.  
-Keine parallelen Versionen in WhatsApp, Google Drive oder privaten Ordnern.
+- **Public:** darf öffentlich ins `sequenz_public`
+- **Internal:** nur intern, keine Veröffentlichung
+- **Confidential:** besonders schützenswert (z.B. Verträge, Budgets, Sicherheitskonzepte)
+- **PII:** personenbezogene Daten (DSGVO-relevant) – im Zweifel nicht versionieren
 
----
-
-### 🔄 Versionierung & Nachvollziehbarkeit
-Änderungen sind jederzeit nachvollziehbar:
-- Wer hat was geändert?
-- Wann?
-- Warum?
-
-Wichtige Änderungen erfolgen über Pull Requests.
+Details: siehe `00_meta/data_classification.md`
 
 ---
 
-### 🧠 Wissenssicherung
-Dieses Repository stellt sicher, dass Wissen nicht an einzelne Personen gebunden ist.
+## Was gehört wohin?
 
-Ziel:  
-> Jeder neue Vorstand oder Helfer kann sich hier selbstständig einarbeiten.
+### Typisch PUBLIC (im Mirror)
+- Satzung, öffentlich freigegebene Ordnungen/Regelwerke
+- Rollenbeschreibungen ohne personenbezogene Daten
+- Generische Prozesse/Handbuch-Inhalte
+- Brand-Exporte, Presskit, freigegebene Grafiken
+- Öffentliche Templates (Blanko-Vorlagen ohne Klarnamen)
 
----
-
-## 🚫 Was hier NICHT abgelegt werden darf
-
-Aus Datenschutz- und Sicherheitsgründen dürfen hier **keine** personenbezogenen oder sensiblen Daten gespeichert werden, z.B.:
-
-- Mitgliederlisten mit Namen, Adressen, Telefonnummern
-- IBANs, Kontodaten
-- Ausweiskopien
-- unterschriebene Verträge mit Klarnamen
-- sensible Vorfälle oder personenbezogene Konfliktdokumentationen
-
-Dieses Repository ist **kein DSGVO-Tresor**.
+### Typisch INTERNAL / CONFIDENTIAL (NICHT im Mirror)
+- Event-Ordner, Run-of-Show, Crewlisten, Security-Pläne
+- Protokolle (Vorstand/MV), interne Entscheidungen, Konflikte
+- Buchhaltung: Ist-Zahlen, Belege, IBAN/Kontoauszüge, Auszahlungen
+- Infrastruktur-Operations: Hostnamen, IPs, Backups, Zugangspfade
+- Verträge mit Klarnamen oder verhandelten Konditionen
 
 ---
 
-## 📝 Dateiformate
+## Repository-Navigation
 
-Bevorzugt:
-- `*.md` (Markdown) für Texte
-- `*.xlsx` für Tabellen & Budgets
-- `*.svg` / `*.png` für Grafiken
-- `*.pdf` nur wenn nötig
+- `00_meta/` – Regeln, Klassifizierung, Konventionen, KI-Kontext
+- `01_governance/` – Satzung, Policies, rechtliche Grundlagen (intern + Quellen)
+- `02_roles/` – Rollen, Onboarding, RACI
+- `03_handbook/` – Prozesse, Checklisten, FAQs
+- `04_events/` – Events (immer intern)
+- `05_brand/` – Brand-Assets (Source + freigegebene Exporte)
+- `06_finance/` – Richtlinien, Vorlagen, Buchhaltung (teils sensibel)
+- `07_infrastructure/` – Overview vs. Operations (Ops bleibt intern)
+- `08_projects/` – Arbeitsstände
+- `09_minutes/` – Protokolle (intern)
+- `10_templates/` – Templates (public_ready vs internal_only)
+- `90_public_mirror/` – **Export-Baum für das öffentliche Repo**
+- `99_archive/` – Abgelegt/Deprecated
 
----
-
-## 🤝 Zusammenarbeit
-
-Regeln für Beiträge:
-
-1. Keine sensiblen Daten committen
-2. Klare Dateinamen verwenden
-3. Änderungen an Satzung, Ordnungen und Kernprozessen nur per Pull Request
-4. Inhalte verständlich und sachlich formulieren
-5. Templates nicht überschreiben, sondern kopieren
+Startpunkt: `INDEX.md`
 
 ---
 
-## 🌍 Öffentliche vs. interne Inhalte
+## Contribution / Änderungen
 
-Dieses Repository ist **intern**.
-
-Für öffentliche Inhalte (z.B. Satzung, Code of Conduct, Brand Assets) existiert ggf. ein separates Public Repository oder eine Website-Version.
-
----
-
-## 🏗️ Zweck dieses Repositories
-
-Dieses Repository ist kein Archiv, sondern ein Arbeitswerkzeug.
-
-Es unterstützt:
-- Vereinsorganisation
-- Eventproduktion
-- Öffentlichkeitsarbeit
-- Finanztransparenz
-- technische Infrastruktur
-- Wissenstransfer
-- Professionalisierung des Vereins
+1. Neue Inhalte immer im passenden Fachordner erstellen (Source of Truth).
+2. Prüfen: Darf das öffentlich sein?
+3. Wenn ja:
+   - Inhalt bereinigen (keine PII, keine Interna)
+   - Im `90_public_mirror/` ablegen bzw. aktualisieren
+4. Optional: Review durch eine zweite Person (Empfehlung für Governance/Legal/Finance)
 
 ---
 
-## 📌 Maintainer
+## KI-Hinweis
 
-Verantwortlich für Struktur und Pflege:
-- Vorstand Sequenz e.V.
+Für KI-gestützte Arbeit gilt:
+- Für öffentliche Artefakte ausschließlich `90_public_mirror/` verwenden.
+- Für interne/operative Aufgaben primär die Fachordner nutzen.
+- Keine personenbezogenen Daten in Prompts kopieren, wenn das externe Tools/Services betrifft.
 
-Technische Pflege:
-- IT / Infrastruktur-Team
-
----
-
-## ❤️ Leitgedanke
-
-> Sequenz e.V. ist mehr als Events.  
-> Dieses Repository bildet das organisatorische Fundament unserer Arbeit.
+Kontext für KI: `00_meta/ai_context.md`

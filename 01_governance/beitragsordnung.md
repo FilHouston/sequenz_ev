@@ -1,3 +1,12 @@
+---
+title: Beitragsordnung des Sequenz e.V.
+status: active
+visibility: external
+owner_role: Vorstand
+last_review: 2026-02-03
+source_path: 01_governance/beitragsordnung.md
+---
+
 # Beitragsordnung des Sequenz e.V.
 
 **Beschlossen vom Vorstand am 03.04.2025**

@@ -1,5 +1,10 @@
 ---
 title: Kassen- & Abrechnungsleiter (Event)
+status: active
+visibility: external
+owner_role: Schatzmeister
+last_review: 2026-02-03
+source_path: 02_roles/event/kassen_abrechnungsleiter.md
 role_type: Eventrolle
 version: 1.0
 tags: [kasse, abrechnung, event]

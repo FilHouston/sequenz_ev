@@ -1,5 +1,10 @@
 ---
 title: Schriftführer
+status: active
+visibility: external
+owner_role: Vorstand
+last_review: 2026-02-03
+source_path: 02_roles/verein/schriftfuehrer.md
 role_type: Vereinsrolle
 version: 1.0
 tags: [protokoll, beschluss, verein]

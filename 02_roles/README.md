@@ -1,3 +1,12 @@
+---
+title: Rollen – Sequenz e.V.
+status: active
+visibility: external
+owner_role: Organisationsteam
+last_review: 2026-02-03
+source_path: 02_roles/README.md
+---
+
 # Rollen – Sequenz e.V.
 
 Dieses Verzeichnis enthält das Rollenhandbuch als einzelne, versionierbare Markdown-Dateien.

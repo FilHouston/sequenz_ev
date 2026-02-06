@@ -1,5 +1,10 @@
 ---
 title: Einlass- & Ticketing-Lead
+status: active
+visibility: external
+owner_role: Eventleitung
+last_review: 2026-02-03
+source_path: 02_roles/event/einlass_ticketing_lead.md
 role_type: Eventrolle
 version: 1.0
 tags: [einlass, ticketing, security]

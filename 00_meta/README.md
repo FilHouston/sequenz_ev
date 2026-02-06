@@ -23,7 +23,7 @@ Keine Eventpläne. Keine Namen.
 1. New Task → New Branch (z.B. 'fix/satzung-r2')
 2. Edit → Commit → Kein „fixes stuff“ → klare Messages!
 3. PR an 'main' → Assign an Vorstand
-4. Review → Merge → Push nach main → Kurz im Chat: „Push fertig“
+4. Review → Merge → Push nach main → Kurz im Chat: „Push fertig"
 5. Nach jedem Merge → Prüfe: Muss das in 90_public_mirror? Dann kopieren!
 ```
 
